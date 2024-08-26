@@ -96,7 +96,7 @@
 <a href='https://ko-fi.com/V7V4RAK9C' target='_blank'><img height='64' style='border:0px;height:64px;' src='https://storage.ko-fi.com/cdn/kofi1.png?v=3' border='0' alt='Buy Me a Coffee at ko-fi.com' /></a>
 </div> -->
 
-## Top Respositorys
+## Top Respositories
   <p align="left">
      <a href="https://github.com/Mohit-Jangid/sunnyoneight"><img width="278" src="https://denvercoder1-github-readme-stats.vercel.app/api/pin/?username=Mohit-Jangid&repo=sunnyoneight&theme=react&bg_color=1F222E&title_color=F8D866&hide_border=true&icon_color=F8D866&show_icons=false" alt="github-readme-streak-stats"></a>
     <a href="https://github.com/Mohit-Jangid/Plixer"><img width="278" src="https://denvercoder1-github-readme-stats.vercel.app/api/pin/?username=Mohit-Jangid&repo=Plixer&theme=react&bg_color=1F222E&title_color=F8D866&hide_border=true&icon_color=F8D866&show_icons=false" alt="github-readme-streak-stats"></a>
