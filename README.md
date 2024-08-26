@@ -74,35 +74,36 @@
   
   ![github contribution grid snake animation](https://raw.githubusercontent.com/shahradelahi/shahradelahi/output/github-contribution-grid-snake.svg#gh-light-mode-only) -->
   
-  <br/><br/><br/>
 </div>
 
 <hr/>
 
-<!-- <h2 align="center">⚡ Stats ⚡</h2>
+<h2 align="center">⚡ Stats ⚡</h2>
 <br>
 <div align=center>
-  <a href="https://git.io/streak-stats"><img src="https://streak-stats.demolab.com?user=Mohit-Jangid" alt="GitHub Streak" /></a>
-  !(https://github-readme-stats.vercel.app/api?username=Mohit-Jangid&show_icons=true&theme=radical)
+  <img src="https://streak-stats.demolab.com?user=Mohit-Jangid&show_icons=true&theme=dark" alt="GitHub Streak" />
+  <img src="https://github-readme-stats.vercel.app/api?username=Mohit-Jangid&show_icons=true&theme=dark" alt="Github Stats" />
 </div>
 
-<br/><br/>
 
 <hr/>
 
-<br/> -->
 
 <!-- <div align="center">
 <a href='https://ko-fi.com/V7V4RAK9C' target='_blank'><img height='64' style='border:0px;height:64px;' src='https://storage.ko-fi.com/cdn/kofi1.png?v=3' border='0' alt='Buy Me a Coffee at ko-fi.com' /></a>
 </div> -->
 
-## Top Respositories
-  <p align="left">
-     <a href="https://github.com/Mohit-Jangid/sunnyoneight"><img width="278" src="https://denvercoder1-github-readme-stats.vercel.app/api/pin/?username=Mohit-Jangid&repo=sunnyoneight&theme=react&bg_color=1F222E&title_color=F8D866&hide_border=true&icon_color=F8D866&show_icons=false" alt="github-readme-streak-stats"></a>
+<div align="center">
+    <h2> 📌 Top Respositories 📌 </h2>
+    <br>
+    <a href="https://github.com/Mohit-Jangid/sunnyoneight"><img width="278" src="https://denvercoder1-github-readme-stats.vercel.app/api/pin/?username=Mohit-Jangid&repo=sunnyoneight&theme=react&bg_color=1F222E&title_color=F8D866&hide_border=true&icon_color=F8D866&show_icons=false" alt="github-readme-streak-stats"></a>
     <a href="https://github.com/Mohit-Jangid/Plixer"><img width="278" src="https://denvercoder1-github-readme-stats.vercel.app/api/pin/?username=Mohit-Jangid&repo=Plixer&theme=react&bg_color=1F222E&title_color=F8D866&hide_border=true&icon_color=F8D866&show_icons=false" alt="github-readme-streak-stats"></a>
    <a href="https://github.com/Mohit-Jangid/Mohit_Jangid"><img width="278" src="https://denvercoder1-github-readme-stats.vercel.app/api/pin/?username=Mohit-Jangid&repo=Mohit_Jangid&theme=react&bg_color=1F222E&title_color=F8D866&hide_border=true&icon_color=F8D866&show_icons=false" alt="github-readme-streak-stats"></a>
     <a href="https://github.com/Mohit-Jangid/S18"><img width="278" src="https://denvercoder1-github-readme-stats.vercel.app/api/pin/?username=Mohit-Jangid&repo=S18&theme=react&bg_color=1F222E&title_color=F8D866&hide_border=true&icon_color=F8D866&show_icons=false" alt="github-readme-streak-stats"></a>
-  </p>
+
+</div>
+
+<hr/>
 
 <h1 align="center">
     <img src="https://readme-typing-svg.herokuapp.com/?font=Righteous&size=35&center=true&vCenter=true&width=500&height=70&duration=4000&lines=Shoot+me+a+message+!!!;+Thank+you+for+visiting+!;" />
