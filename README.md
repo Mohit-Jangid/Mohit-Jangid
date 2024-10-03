@@ -27,7 +27,7 @@
 
 ⚡ My recent work: I’ve built a dynamic music hub that combines my love for coding and music. Check [here](https://sunnyoneight.vercel.app/)
 
-😁 Fun fact: Really !! Need something funny, huhh ?? Search for it 🥱
+😁 Fun fact: "Are you as bored as I am" , Can be said backwards, And still makes sense !!! 🥱
 
 </div>
  
