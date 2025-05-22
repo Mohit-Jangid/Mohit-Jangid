@@ -1,33 +1,40 @@
+<div align="right">
+    <img src="https://visitor-badge.laobi.icu/badge?page_id=Mohit-Jangid.Mohit-Jangid" />
+</div>
 
-<img align="right" src="https://visitor-badge.laobi.icu/badge?page_id=Mohit-Jangid.Mohit-Jangid" />
+<div align="center">
+    <img src="https://media.giphy.com/media/M9gbBd9nbDrOTu1Mqx/giphy.gif" width="100"/>
+<!--     <h2> Mohit Jangid </h2> -->
+</div>
+
+<div>
+    <h2 align="center">
+        <img src="https://readme-typing-svg.herokuapp.com/?font=Righteous&size=30&center=true&vCenter=true&width=500&height=50&duration=4500&lines=Hey+There+!!!+👋;+Welcome+to+my+hustle+hub+!;" />
+    </h2>
+</div>
 
 
-<h1 align="center">
-    <img src="https://readme-typing-svg.herokuapp.com/?font=Righteous&size=35&center=true&vCenter=true&width=500&height=70&duration=4000&lines=Hi+There+!!!+👋;+Welcome+to+my+work+space+!;" />
-</h1>
-
-
-<h3 align="center"> 👋 Hi, I’m Mohit Jangid from India 🇮🇳</h3>
+<h3 align="center">  Hi, I’m Mohit Jangid from India 🇮🇳</h3>
 
 <br/>
 
 <div align="center">
 
-🔭 I’m currently working on improving my **Full Stack Development** and **Data Engineering** skills.
+🔭  Currently working on improving my **Full Stack Development** and **Data Engineering** skills.
 
-🌱 I’m deepening my knowledge in **React**, **JavaScript/TypeScript**, and **Machine Learning**.
+🌱  Deepening my knowledge in **React**, **JavaScript/TypeScript**, and **Machine Learning**.
 
-👯 I’m looking to collaborate on innovative tech projects, especially in **web development** and **AI**.
+👯  Looking to collaborate on innovative tech projects, especially in **web development** and **AI**.
 
-🤔 I’m always eager to learn new tools and technologies, currently focusing on **Next.js** and **Three.js**.
+🤔  Always eager to learn new tools and technologies, currently focusing on **Next.js** and **Three.js**.
 
-💬 Ask me about **Python**, **React**, **Power BI**, or anything tech-related—I’m always up for a discussion!
+💬  Ask me about **Python**, **React**, **Power BI**, or anything tech-related — Always up for a discussion!
 
-🏖️ In my free time, I love **traveling** and **exploring** new places, **swimming**, and playing **cricket** and **badminton**.
+🏖️  Love to **travel** , **explore** , **swim** , and to play **cricket** & **badminton**.
 
-⚡ My recent work: I’ve built a dynamic music hub that combines my love for coding and music. Check [here](https://sunnyoneight.vercel.app/)
+⚡  Recent work: Built a dynamic music hub that combines my love for coding and music. Check [here](https://sunnyoneight.vercel.app/)
 
-😁 Fun fact: "Are you as bored as I am" , Can be said backwards, And still makes sense !!! 🥱
+😁  Fun fact: "Nothing....., Just work" !!! 🥱
 
 </div>
  
@@ -65,6 +72,22 @@
 <br/>
 <hr/>
 
+<h2 align="center">⚡ Stats ⚡</h2>
+<br>
+<div align=center>
+    <a>
+    <img src="https://streak-stats.demolab.com?user=Mohit-Jangid&show_icons=true&theme=dark" alt="GitHub Streak" />
+    </a>
+    <a>
+    <img src="https://github-readme-stats.vercel.app/api?username=Mohit-Jangid&show_icons=true&theme=transparent" alt="Github Stats" />
+    </a>
+    <a>
+    <img src="https://github-readme-stats.vercel.app/api/top-langs?username=Mohit-Jangid&layout=compact&langs_count=8&card_width=320&show_icons=true&theme=transparent&locale=en" alt="Languages" />
+    </a>
+</div>
+
+<hr/>
+
 <div align="center">
   <h2>🐍 Contributions 🐍</h2>
   <br>
@@ -74,22 +97,6 @@
   
   ![github contribution grid snake animation](https://raw.githubusercontent.com/shahradelahi/shahradelahi/output/github-contribution-grid-snake.svg#gh-light-mode-only) -->
   
-</div>
-
-<hr/>
-
-<h2 align="center">⚡ Stats ⚡</h2>
-<br>
-<div align=center>
-    <p>
-    <img src="https://github-readme-stats.vercel.app/api/top-langs?username=Mohit-Jangid&show_icons=true&theme=dark&locale=en&layout=compact" alt="Languages" />
-    </p>
-    <p>
-    <img src="https://streak-stats.demolab.com?user=Mohit-Jangid&show_icons=true&theme=dark" alt="GitHub Streak" />
-    </p>
-    <p>
-    <img src="https://github-readme-stats.vercel.app/api?username=Mohit-Jangid&show_icons=true&theme=dark" alt="Github Stats" />
-    </p>
 </div>
 
 <hr/>
