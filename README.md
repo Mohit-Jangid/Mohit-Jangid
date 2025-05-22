@@ -81,9 +81,9 @@
     <a>
     <img src="https://github-readme-stats.vercel.app/api?username=Mohit-Jangid&show_icons=true&theme=transparent" alt="Github Stats" />
     </a>
-    <a>
+<!--     <a>
     <img src="https://github-readme-stats.vercel.app/api/top-langs?username=Mohit-Jangid&layout=compact&langs_count=8&card_width=320&show_icons=true&theme=transparent&locale=en" alt="Languages" />
-    </a>
+    </a> -->
 </div>
 
 <hr/>
