@@ -18,26 +18,25 @@
 
 <br/>
 
-<div align="center">
+<div align="left">
 
-🔭  Currently working on improving my **Full Stack Development** and **Data Engineering** skills.
+🔭 Currently enhancing expertise in **Full Stack Development** and **Data Science**.   
 
-🌱  Deepening my knowledge in **React**, **JavaScript/TypeScript**, and **Machine Learning**.
+🌱 Deepening skills in React, Next.js, JavaScript/TypeScript, Machine Learning, and Three.js.    
 
-👯  Looking to collaborate on innovative tech projects, especially in **web development** and **AI**.
+👯 Open to collaborations on innovative projects in Web Development, GenAI, and Data-Driven Applications.    
 
-🤔  Always eager to learn new tools and technologies, currently focusing on **Next.js** and **Three.js**.
+💬 Experienced in Python, React, Power BI, Data Visualization, and Machine Learning Models.    
 
-💬  Ask me about **Python**, **React**, **Power BI**, or anything tech-related — Always up for a discussion!
+⚡ Recent Work: 
 
-🏖️  Love to **travel** , **explore** , **swim** , and to play **cricket** & **badminton**.
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;📊 Interactive Visualization & Regression Dashboard for predictive analytics and business insights ( [view](https://regression-models.streamlit.app) ).   
 
-⚡  Recent work: Built a dynamic music hub that combines my love for coding and music. Check [here](https://sunnyoneight.vercel.app/)
-
-😁  Fun fact: "Nothing....., Just work" !!! 🥱
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;🎵 Dynamic Music Hub combining web development and music passion ( [view](https://sunnyoneight.vercel.app) ).    
+            
+💡 Fun fact: I believe in learning by building.
 
 </div>
- 
 
 <div align="center"> 
 
@@ -57,16 +56,30 @@
 
 </div>
 
- <hr/>
+<hr/>
  
 <h2 align="center">⚒️ Languages-Frameworks-Tools ⚒️</h2>
 
 <br/>
 
 <div align="center">
-    <img src="https://skillicons.dev/icons?i=python,html,css,vscode,mysql,ps,pr,windows" />
-    <img src="https://skillicons.dev/icons?i=git,github,react,vite,nodejs,javascript,typescript,express,tailwind,mongodb" />
-    <br>
+
+<!-- Languages -->
+<img src="https://skillicons.dev/icons?i=python,javascript,typescript,html,css" />
+
+<!-- Frameworks & Libraries -->
+<img src="https://skillicons.dev/icons?i=react,nextjs,nodejs,express,tailwind,vite" />
+<!-- No direct icons for Numpy, Pandas, Matplotlib, NLTK — we can list them separately as text -->
+
+<!-- Databases -->
+<img src="https://skillicons.dev/icons?i=mysql,mongodb" />
+
+<!-- Tools -->
+<img src="https://skillicons.dev/icons?i=git,github,vscode,windows" />
+
+<!-- Design / Media -->
+<img src="https://skillicons.dev/icons?i=ps,pr" />
+
 </div>
 
 <br/>
@@ -108,12 +121,11 @@
 <div align="center">
     <h2> 📌 Top Respositories 📌 </h2>
     <br>
+    <a href="https://github.com/Mohit-Jangid/Regression-Models"><img width="278" src="https://denvercoder1-github-readme-stats.vercel.app/api/pin/?username=Mohit-Jangid&repo=Regression-Models&theme=dark&bg_color=1F222E&title_color=F8D866&hide_border=true&icon_color=F8D866&show_icons=false" alt="github-readme-streak-stats"></a>
     <a href="https://github.com/Mohit-Jangid/sunnyoneight"><img width="278" src="https://denvercoder1-github-readme-stats.vercel.app/api/pin/?username=Mohit-Jangid&repo=sunnyoneight&theme=dark&bg_color=1F222E&title_color=F8D866&hide_border=true&icon_color=F8D866&show_icons=false" alt="github-readme-streak-stats"></a>
     <a href="https://github.com/Mohit-Jangid/Plixer"><img width="278" src="https://denvercoder1-github-readme-stats.vercel.app/api/pin/?username=Mohit-Jangid&repo=Plixer&theme=dark&bg_color=1F222E&title_color=F8D866&hide_border=true&icon_color=F8D866&show_icons=false" alt="github-readme-streak-stats"></a>
    <a href="https://github.com/Mohit-Jangid/Mohit_Jangid"><img width="278" src="https://denvercoder1-github-readme-stats.vercel.app/api/pin/?username=Mohit-Jangid&repo=Mohit_Jangid&theme=dark&bg_color=1F222E&title_color=F8D866&hide_border=true&icon_color=F8D866&show_icons=false" alt="github-readme-streak-stats"></a>
     <a href="https://github.com/Mohit-Jangid/Image-Caption-Generator"><img width="278" src="https://denvercoder1-github-readme-stats.vercel.app/api/pin/?username=Mohit-Jangid&repo=Image-Caption-Generator&theme=dark&bg_color=1F222E&title_color=F8D866&hide_border=true&icon_color=F8D866&show_icons=false" alt="github-readme-streak-stats"></a>
-    <a href="https://github.com/Mohit-Jangid/S18"><img width="278" src="https://denvercoder1-github-readme-stats.vercel.app/api/pin/?username=Mohit-Jangid&repo=S18&theme=dark&bg_color=1F222E&title_color=F8D866&hide_border=true&icon_color=F8D866&show_icons=false" alt="github-readme-streak-stats"></a>
-
 </div>
 
 <hr/>
