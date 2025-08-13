@@ -22,11 +22,11 @@
 
 🔭 Currently enhancing expertise in **Full Stack Development** and **Data Science**.   
 
-🌱 Deepening skills in React, Next.js, JavaScript/TypeScript, Machine Learning, and Three.js.    
+🌱 Deepening skills in **React**, **Next.js**, **JavaScript/TypeScript**, **Machine Learning**, and **Three.js**.    
 
-👯 Open to collaborations on innovative projects in Web Development, GenAI, and Data-Driven Applications.    
+👯 Open to collaborations on innovative projects in **Web Development**, **GenAI**, and **Data-Driven** Applications.    
 
-💬 Experienced in Python, React, Power BI, Data Visualization, and Machine Learning Models.    
+💬 Experienced in **Python**, **React**, **Power BI**, **Data Visualization**, and **Machine Learning Models**.    
 
 ⚡ Recent Work: 
 
