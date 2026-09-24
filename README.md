@@ -20,21 +20,21 @@
 
 <div align="left">
 
-🔭 Currently enhancing expertise in **Full Stack Development** and **Data Science**.   
+- Currently enhancing expertise in **Full Stack Development** and **Data Science**.   
 
-🌱 Deepening skills in **React**, **Next.js**, **JavaScript/TypeScript**, **Machine Learning**, and **Three.js**.    
+- Deepening skills in **React**, **Next.js**, **JavaScript/TypeScript**, **Machine Learning**, and **Three.js**.    
 
-👯 Open to collaborations on innovative projects in **Web Development**, **GenAI**, and **Data-Driven** Applications.    
+- Open to collaborations on innovative projects in **Web Development**, **GenAI**, and **Data-Driven** Applications.    
 
-💬 Experienced in **Python**, **React**, **Power BI**, **Data Visualization**, and **Machine Learning Models**.    
+- Experienced in **Python**, **React**, **Power BI**, **Data Visualization**, and **Machine Learning Models**.    
 
-⚡ Recent Work: 
+- Recent Work: 
 
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;📊 Interactive Visualization & Regression Dashboard for predictive analytics and business insights ( [view](https://regression-models.streamlit.app) ).   
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;- Interactive Visualization & Regression Dashboard for predictive analytics and business insights ( [view](https://regression-models.streamlit.app) ).   
 
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;🎵 Dynamic Music Hub combining web development and music passion ( [view](https://sunnyoneight.vercel.app) ).    
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;- Dynamic Music Hub combining web development and music passion ( [view](https://sunnyoneight.vercel.app) ).    
             
-💡 Fun fact: I believe in learning by building.
+- Fun fact: I believe in learning by building.
 
 </div>
 
@@ -102,7 +102,7 @@
 <hr/>
 
 <div align="center">
-  <h2>🐍 Contributions 🐍</h2>
+  <h2> Contributions </h2>
   <br>
   <img alt="snake eating my contributions" src="https://raw.githubusercontent.com/Mohit-Jangid/Mohit-Jangid/output/github-contribution-grid-snake.svg" />
 
@@ -119,7 +119,7 @@
 </div> -->
 
 <div align="center">
-    <h2> 📌 Highlighted Respositories 📌 </h2>
+    <h2>  Highlighted Respositories  </h2>
     <br>
     <a href="https://github.com/Mohit-Jangid/Regression-Models"><img width="278" src="https://denvercoder1-github-readme-stats.vercel.app/api/pin/?username=Mohit-Jangid&repo=Regression-Models&theme=dark&bg_color=1F222E&title_color=F8D866&hide_border=true&icon_color=F8D866&show_icons=false" alt="github-readme-streak-stats"></a>
     <a href="https://github.com/Mohit-Jangid/sunnyoneight"><img width="278" src="https://denvercoder1-github-readme-stats.vercel.app/api/pin/?username=Mohit-Jangid&repo=sunnyoneight&theme=dark&bg_color=1F222E&title_color=F8D866&hide_border=true&icon_color=F8D866&show_icons=false" alt="github-readme-streak-stats"></a>
